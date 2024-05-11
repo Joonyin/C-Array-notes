@@ -1,0 +1,7 @@
+Subset = If a Set has all its element belonging to other sets, this set will be known as a subset of other set
+
+subarray= A subarray is a contigous part of array 
+formula = n*(n+1)/2
+
+subsequences = a subsequence is a sequencw thatcan be drived from another sequence by removing zero or more element, without changing the order of the remaining elements.
+formula = (2^n-1)
